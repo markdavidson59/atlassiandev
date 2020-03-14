@@ -2,7 +2,7 @@
      "name": "Hello World",
      "description": "Atlassian Connect app",
      "key": "com.example.myapp",
-     "baseUrl": "https://raw.githubusercontent.com/markdavidson59/atlassiandev/master/helloworld",
+     "baseUrl": "https://raw.githubusercontent.com/markdavidson59/atlassiandev/master/helloworld.html",
      "vendor": {
          "name": "Example, Inc.",
          "url": "http://example.com"
